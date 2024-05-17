@@ -6,7 +6,7 @@
 #include <sys/stat.h>
 #include <sys/types.h>
 
-#define FILE_PATH "pattern.txt" // Update this with your text file path
+#define FILE_PATH "pattern.txt" 
 
 int main() {
 
